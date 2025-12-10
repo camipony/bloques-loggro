@@ -30,7 +30,7 @@ src/
  └─ test/
      └─ java/co/loggro/bloques/
           └─ ValidaPalabraConBloquesTest.java
-
+```
 
 Para ejecutar el proyecto:
 
