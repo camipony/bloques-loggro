@@ -19,7 +19,8 @@ Tecnologías utilizadas
 * JUnit 5
 * IntelliJ IDEA
 
-  src/
+```text
+src/
  ├─ main/
  │   └─ java/co/loggro/bloques/
  │        ├─ Aplicacion.java
@@ -27,8 +28,9 @@ Tecnologías utilizadas
  │        ├─ PruebaBloques.java
  │        └─ Bloque.java
  └─ test/
-      └─ java/co/loggro/bloques/
-           └─ ValidaPalabraConBloquesTest.java
+     └─ java/co/loggro/bloques/
+          └─ ValidaPalabraConBloquesTest.java
+
 
 Para ejecutar el proyecto:
 
