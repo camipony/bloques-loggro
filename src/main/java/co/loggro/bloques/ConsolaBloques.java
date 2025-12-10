@@ -1,12 +1,12 @@
 package co.loggro.bloques;
 
-import java.util.Scanner;
-
 /**
  * Autor: Camila Rodríguez
  * Fecha: 10/02/2025
  * Propósito: Maneja la interacción por consola con el usuario.
  */
+
+import java.util.Scanner;
 
 public class ConsolaBloques {
 
