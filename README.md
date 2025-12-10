@@ -39,8 +39,10 @@ Para ejecutar el proyecto:
 
 O desde consola Maven:
 
-1. mvn clean install
-2. mvn exec:java -Dexec.mainClass="co.loggro.bloques.Aplicacion"
+```text
+mvn clean install
+mvn exec:java -Dexec.mainClass="co.loggro.bloques.Aplicacion"
+```
 
 Para ejecutar las pruebas unitarias:
 
@@ -48,4 +50,6 @@ Para ejecutar las pruebas unitarias:
 2. Click en Run
 
 O desde consola Maven:
-mvn test
+
+```textmvn test
+```
